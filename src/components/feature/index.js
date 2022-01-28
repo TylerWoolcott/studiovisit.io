@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Column, Row, InnerRow, Title, SubTitle, Image, ButtonLink, CreatorRow, CreatorText, CreatorLinkWrapper, CreatorLinkWrapper2, AvatarLink, InnerAvatarImageContainer, InnerAvatarImageShape, InnerAvatarImage } from "./styles/feature";
+import { Container, Column, Row, InnerRow, Title, SubTitle, Image, ButtonLink, CreatorRow, CreatorText, CreatorLinkWrapper, AvatarLink, InnerAvatarImageContainer, InnerAvatarImage } from "./styles/feature";
 
 export default function Feature({ children, ...restProps }) {
     return <Container {...restProps}>{children}</Container>
