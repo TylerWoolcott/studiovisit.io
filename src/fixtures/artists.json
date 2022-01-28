@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "avatar": "/images/avatars/petra-cortright-avatar.jpg", 
+        "handle": "@petracortright",
+        "image": "/images/memberships/petra-cortright.jpg",
+        "alt": "Petra Cortright",
+        "artistName": "Petra Cortright",
+        "title": "Access limited editions, one-to-one visits and more",
+        "price": "0.2 ETH per month"
+    },
+    {
+        "id": 2,
+        "avatar": "/images/avatars/rachel-maclean.jpg", 
+        "handle": "@rachelmaclean",
+        "image": "/images/memberships/rachel-maclean.jpg",
+        "alt": "Rachel Maclean",
+        "artistName": "Rachel Maclean",
+        "title": "Access private talks, events, studio visits",
+        "price": "0.4 ETH per month"
+    },
+    {
+        "id": 3,
+        "avatar": "/images/avatars/holly-hendry.jpg", 
+        "handle": "@hollyhendry",
+        "image": "/images/memberships/holly-hendry.jpg",
+        "alt": "Holly Hendry",
+        "artistName": "Holly Hendry",
+        "title": "Access studio visits, limited editions and more",
+        "price": "0.1 ETH per month"
+    }
+]
